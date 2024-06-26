@@ -13,7 +13,11 @@ I built this application by:
 
 
 Screenshots
-Light Mode:![light](https://github.com/woseky/rn-assignment5-11147008/assets/169992798/6f36b898-1a13-46e1-a223-8ed6960c1771)
+Light Mode:
+
+![light](https://github.com/woseky/rn-assignment5-11147008/assets/169992798/6f36b898-1a13-46e1-a223-8ed6960c1771)
 
 
-Dark Mode:![dark](https://github.com/woseky/rn-assignment5-11147008/assets/169992798/5ede575e-7170-45f5-95b1-e4de58fbcfe2)
+Dark Mode:
+
+![dark](https://github.com/woseky/rn-assignment5-11147008/assets/169992798/5ede575e-7170-45f5-95b1-e4de58fbcfe2)
